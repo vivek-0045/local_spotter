@@ -7,7 +7,7 @@
     "stop": "taskkill -f -im node.exe"
   },
   "engines": {
-    "node": ">=20.0.0", 
+    "node": "~16.20.0", 
     "npm": "~9.8.0"
   },
   "dependencies": {
